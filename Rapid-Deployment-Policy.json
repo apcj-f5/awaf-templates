@@ -1548,7 +1548,7 @@
       },
       "description" : "Rapid Deployment Policy",
       "enablePassiveMode" : false,
-      "enforcementMode" : "transparent",
+      "enforcementMode" : "blocking",
       "filetypes" : [
          {
             "allowed" : false,
